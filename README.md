@@ -1,4 +1,4 @@
 # Demo
 Trial repository.
 <br>
-Author - Ankita Khorai
+Author - Ankita Khorai (Demo)
